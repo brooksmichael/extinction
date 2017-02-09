@@ -52,6 +52,7 @@ h1 {
 	font-size: 3em;
 	background: #EBEBEB;
 	font-family: 'Numans', sans-serif;
+	padding: 25px;
 }
 
 a{
@@ -110,7 +111,7 @@ h3.char {
 	background: #EBEBEB;
 	font-family: 'Numans', sans-serif;
 	margin-top: 30%;
-	padding: 0 5px 0 5px;
+	padding: 25px;
 }
 
 .lineage{
@@ -127,7 +128,7 @@ h3.char {
 	background: #EBEBEB;
 	font-family: 'Numans', sans-serif;
 	margin-top: 125%;
-	padding: 0 5px 0 5px;
+	padding: 25px;
 }
 
 .www {
@@ -147,8 +148,9 @@ h3.char {
 .ww {
 	width: 35%;
 	float: right;
-	height: 540px;
+	
 	padding: 5%;
+	padding-top: 13%;
 }
 
 .h{
